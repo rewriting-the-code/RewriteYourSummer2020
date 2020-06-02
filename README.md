@@ -11,12 +11,12 @@ been cancelled, RTC plans to engage our company partners to help our passionate 
 of whom have already demonstrated interest in using their newly-found time productively, to make the most of
 their time. 
 
-# The Rewrite Your Summer program will:
-• Provide students the opportunity to participate in a meaningful summer project with peers and mentors
+## Program Goals:
+* Provide students the opportunity to participate in a meaningful summer project with peers and mentors
 in the absence of a traditional internship where they will develop code, project solutions, and work
 artifacts for use during the 2020 fall recruiting season.
-• Help students ideate projects and create solutions they’re passionate about.
+* Help students ideate projects and create solutions they’re passionate about.
 • Create opportunities for students to develop and learn team, technical, and business skills through
 hands-on experience and collaboration.
-• Further develop and strengthen relationships within the RTC community.
-• Expose students to RTC company partner engineers and recruiters.
+* Further develop and strengthen relationships within the RTC community.
+* Expose students to RTC company partner engineers and recruiters.
