@@ -16,7 +16,7 @@ their time.
 in the absence of a traditional internship where they will develop code, project solutions, and work
 artifacts for use during the 2020 fall recruiting season.
 * Help students ideate projects and create solutions they’re passionate about.
-• Create opportunities for students to develop and learn team, technical, and business skills through
+* Create opportunities for students to develop and learn team, technical, and business skills through
 hands-on experience and collaboration.
 * Further develop and strengthen relationships within the RTC community.
 * Expose students to RTC company partner engineers and recruiters.
