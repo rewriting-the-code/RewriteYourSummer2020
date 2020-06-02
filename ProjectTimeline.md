@@ -1,8 +1,8 @@
 # Rewrite Your Summer Project Timeline
 ## Week 1 - Introductions + Stakeholder Input
-* Students should set up a team charter and form consensus on the team’s code of conduct.
-* The team should establish a daily stand up time and start attending this daily meeting. 
-* All team members should familiarize themselves with Git.
+* Students should set up a [team charter](https://www.lce.com/Team-Charters-What-are-they-1219.html) and form consensus on the team’s code of conduct.
+* The team should establish a [daily stand up time](https://www.agilealliance.org/glossary/daily-meeting/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'daily*20meeting))~searchTerm~'~sort~false~sortDirection~'asc~page~1)) and start attending this daily meeting. 
+* All team members should familiarize themselves with [Git](https://lab.github.com/githubtraining/introduction-to-github).
 * Collecting Stakeholder Data:
   * The team should discuss the project’s problem statement and scope and define any remaining questions they have for key stakeholders (i.e. project points of contact and the RTC community at large).
   * All RTC project questions for stakeholders should be grouped into an RTC-wide “Tech Survey” and sent to the entire RTC community to get input on people’s experiences with different RTC processes.
