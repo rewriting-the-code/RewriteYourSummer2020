@@ -22,4 +22,4 @@ hands-on experience and collaboration.
 * Expose students to RTC company partner engineers and recruiters.
 
 ## Slack Workspace:
-* Be sure to join the Rewrite Your Summer Slack Workspace: https://join.slack.com/t/rewriteyoursummer/shared_invite/zt-exvowc2p-Q5sv1lNLicloe7irZSd_SA. If you're a student, request access to the students-only channel. If you're a mentor, request access to the mentors-only channel. You can also add yourself to the project group channel that's relevant for you.
+* Be sure to [join](https://join.slack.com/t/rewriteyoursummer/shared_invite/zt-exvowc2p-Q5sv1lNLicloe7irZSd_SA) the Rewrite Your Summer Slack Workspace. If you're a student, request access to the students-only channel. If you're a mentor, request access to the mentors-only channel. You can also add yourself to the project group channel that's relevant for you.
