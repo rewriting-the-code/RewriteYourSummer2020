@@ -20,7 +20,7 @@ i.e. If the project is to build an RTC Job Board, the team would develop questio
 ## Week 3 - Development
 * Team begins implementation of technical solution.
 * Mentor expectations: Review team’s progress against the development timeline they lay out in their design document. If necessary, provide technical advice and review pull requests.
-# Week 4 - Development
+## Week 4 - Development
 * Team continues implementation of technical solution.
 * Mentor expectations: Review team’s progress against the development timeline they lay out in their design document. If necessary, provide technical advice and review pull requests.
 ## Week 5 - Development + Develop user testing program
